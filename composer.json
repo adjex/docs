@@ -1,0 +1,14 @@
+{
+	"name": "adjex/docs",
+	"type": "project",
+	"license": "MIT",
+	"repositories": {
+		"variative": {
+			"type": "vcs",
+			"url": "https://github.com/adjex/variative"
+		}
+	},
+	"require": {
+		"adjex/variative": "dev-develop"
+	}
+}

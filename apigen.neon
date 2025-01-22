@@ -1,0 +1,10 @@
+parameters:
+	paths: [
+		'vendor/adjex/variative/src'
+	]
+
+	include: ['*.php']
+
+	outputDir: '%workingDir%/docs'
+
+	title: Variative
