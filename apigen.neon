@@ -5,6 +5,6 @@ parameters:
 
 	include: ['*.php']
 
-	outputDir: '%workingDir%/docs'
+	outputDir: '%workingDir%/docs/develop'
 
 	title: AdjEx
